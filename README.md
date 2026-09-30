@@ -1,11 +1,14 @@
-# FitLog 🏋️‍♂️
+[![Deployment Status](https://img.shields.io/badge/Vercel-Live--Demo-000000?style=for-the-badge&logo=vercel)](https://su-35s-suite.vercel.app)
 
-A modern, responsive fitness & workout tracking web application.
+# Su-35S Flanker-E Technical Suite ✈️⚡
 
-## 🚀 Features
-- 🏋️ **Workout Library:** Explore exercise routines.
-- 📋 **Custom Planning:** Plan and customize personal workouts.
-- 📱 **Fully Responsive:** Smooth UI across desktop and mobile.
+An advanced visual & technical analytical platform dedicated to the Sukhoi Su-35S (Flanker-E) multirole fighter aircraft.
+
+## 🚀 Key Features
+- 📡 **Avionics & Radar Analysis:** In-depth breakdown of the Irbis-E PESA radar specs and range.
+- 🔄 **Thrust Vectoring Dynamic UI:** Interactive visual display of AL-41F1S engine capabilities and supermaneuverability metrics.
+- 🎯 **Armament Loadout Configurator:** Comprehensive guide to air-to-air & air-to-surface payload capacities.
+- 📱 **Minimal & Dark Aesthetics:** Fully responsive UI engineered with Next.js and Tailwind CSS.
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js (App Router)
@@ -15,9 +18,10 @@ A modern, responsive fitness & workout tracking web application.
 
 ## 💻 Getting Started
 
-First, clone the repository and install dependencies:
+Clone the repository and run the local development server:
 
 ```bash
-git clone [https://github.com/your-username/fitlog.git](https://github.com/your-username/fitlog.git)
-cd fitlog
+git clone [https://github.com/your-username/su35s-suite.git](https://github.com/your-username/su35s-suite.git)
+cd su35s-suite
 npm install
+npm run dev
